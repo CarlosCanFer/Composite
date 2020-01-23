@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjemploComposite\EjemploComposite\obj\Debug\EjemploComposite.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploComposite\EjemploComposite\obj\Debug\EjemploComposite.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploComposite\EjemploComposite\bin\Debug\EjemploComposite.exe.config
+C:\Users\carlos.can\source\repos\EjemploComposite\EjemploComposite\bin\Debug\EjemploComposite.exe
+C:\Users\carlos.can\source\repos\EjemploComposite\EjemploComposite\bin\Debug\EjemploComposite.pdb
+C:\Users\carlos.can\source\repos\EjemploComposite\EjemploComposite\obj\Debug\EjemploComposite.exe
+C:\Users\carlos.can\source\repos\EjemploComposite\EjemploComposite\obj\Debug\EjemploComposite.pdb
